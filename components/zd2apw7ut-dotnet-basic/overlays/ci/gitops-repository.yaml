@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zd2apw7ut-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/zd2apw7ut-dotnet-basic-gitops
